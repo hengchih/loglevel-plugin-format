@@ -1,5 +1,5 @@
 {
-  "name": "loglevel-plugin-format",
+  "name": "loglevel-format",
   "description": "Plugin for loglevel message format",
   "author": "hengchih",
   "keywords": [
@@ -20,7 +20,7 @@
     "url": "https://github.com/hengchih/loglevel-plugin-format.git"
   },
   "license": "MIT",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "main": "./lib/loglevel-plugin-format",
   "scripts": {
     "eslint": "eslint ./lib/loglevel-plugin-format.js",

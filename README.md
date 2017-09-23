@@ -6,7 +6,7 @@ loglevel plugin for log message formatting
 ## Installation
 
 ```sh
-npm install loglevel-plugin-format --save
+npm install loglevel-format --save
 ```
 
 ## API

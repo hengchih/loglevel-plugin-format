@@ -35,7 +35,8 @@ var defaults = {
   },
   nameFormatter: function (name) {
     return name || 'root';
-  }
+  },
+  appendExtraArguments: false
 };
 ```
 
